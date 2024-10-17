@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: blue;
+  width:300px;
+  height:200px;
+  margin-left: 600px;
+}
+label{
+  display:inline-block;
+  width: 100px;
+  margin:10px;
+}
+select{
+  width: 100px;
+}
+table,td{
+  border: 5px solid gray;
+}
